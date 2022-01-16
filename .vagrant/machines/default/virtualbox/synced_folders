@@ -1,0 +1,1 @@
+{"virtualbox":{"/tmp/synced":{"guestpath":"/tmp/synced","hostpath":"D:/VM_shared/provision-it-general-yarrof/synced","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"D:/VM_shared/provision-it-general-yarrof","disabled":false,"__vagrantfile":true}}}
